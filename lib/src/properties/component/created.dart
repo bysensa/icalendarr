@@ -27,4 +27,6 @@
 //
 //  CREATED:19960329T133000Z
 
+part of '../property.dart';
+
 class Created {}

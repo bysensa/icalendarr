@@ -79,4 +79,6 @@
 //  ATTENDEE;SENT-BY=mailto:jan_doe@example.com;CN=John Smith:
 //   mailto:jsmith@example.com
 
+part of '../property.dart';
+
 class Attendee {}

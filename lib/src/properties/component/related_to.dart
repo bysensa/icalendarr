@@ -41,5 +41,6 @@
 //
 //  RELATED-TO:jsmith.part7.19960817T083000.xyzMail@example.com
 //  RELATED-TO:19960401-080045-4000F192713-0052@example.com
+part of '../property.dart';
 
 class RelatedTo {}

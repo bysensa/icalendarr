@@ -27,5 +27,6 @@
 //
 //  TZOFFSETFROM:-0500
 //  TZOFFSETFROM:+1345
+part of '../property.dart';
 
 class TimeZoneOffset {}

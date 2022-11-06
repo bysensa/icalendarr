@@ -27,4 +27,6 @@
 //
 //  COLOR:turquoise
 
+part of '../property.dart';
+
 class Color {}

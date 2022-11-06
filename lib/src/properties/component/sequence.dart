@@ -34,5 +34,6 @@
 // The following is an example of this property for a calendar component that has been revised two different times by the "Organizer":
 //
 //  SEQUENCE:2
+part of '../property.dart';
 
 class Sequence {}

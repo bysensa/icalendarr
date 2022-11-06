@@ -29,5 +29,6 @@
 // The following is an example of this property that specifies an interval of time of 15 minutes.
 //
 //  DURATION:PT15M
+part of '../property.dart';
 
 class ComponentDuration {}

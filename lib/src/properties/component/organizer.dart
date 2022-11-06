@@ -49,5 +49,6 @@
 //
 //  ORGANIZER;SENT-BY="mailto:jane_doe@example.com":
 //   mailto:jsmith@example.com
+part of '../property.dart';
 
 class Organizer {}

@@ -32,4 +32,6 @@
 //
 //  VERSION:2.0
 
+part of '../property.dart';
+
 class Version {}

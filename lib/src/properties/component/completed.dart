@@ -26,4 +26,6 @@
 //
 //  COMPLETED:19960401T150000Z
 
+part of '../property.dart';
+
 class Completed {}

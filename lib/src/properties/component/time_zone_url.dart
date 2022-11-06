@@ -25,5 +25,6 @@
 // The following is an example of this property
 //
 //  TZURL:http://timezones.example.org/tz/America-Los_Angeles.ics
+part of '../property.dart';
 
 class TimeZoneUrl {}

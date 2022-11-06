@@ -32,5 +32,6 @@
 // The following is an example of this property for an event that is opaque or blocks on free/busy time searches:
 //
 //  TRANSP:OPAQUE
+part of '../property.dart';
 
 class TimeTransparency {}

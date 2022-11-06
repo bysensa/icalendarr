@@ -31,5 +31,6 @@
 // The following is an example of this property
 //
 //  UID:19960401T080045Z-4000F192713-0052@example.com
+part of '../property.dart';
 
 class Uid {}

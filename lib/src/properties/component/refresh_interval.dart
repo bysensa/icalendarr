@@ -38,5 +38,6 @@
 // The following is an example of this property
 //
 //  REFRESH-INTERVAL;VALUE=DURATION:P1W
+part of '../property.dart';
 
 class RefreshInterval {}

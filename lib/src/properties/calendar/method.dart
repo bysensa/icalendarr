@@ -33,4 +33,6 @@
 //
 //  METHOD:REQUEST
 
+part of '../property.dart';
+
 class Method {}

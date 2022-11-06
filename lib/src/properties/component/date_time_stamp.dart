@@ -29,5 +29,6 @@
 //  stmparam   = *(";" other-param)
 // Example
 //  DTSTAMP:19971210T080000Z
+part of '../property.dart';
 
 class DateTimeStamp {}

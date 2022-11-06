@@ -38,5 +38,6 @@
 //
 //  RESOURCES:EASEL,PROJECTOR,VCR
 //  RESOURCES;LANGUAGE=fr:Nettoyeur haute pression
+part of '../property.dart';
 
 class Resources {}

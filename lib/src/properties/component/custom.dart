@@ -27,5 +27,6 @@
 //
 //  X-ABC-MMSUBJ;VALUE=URI;FMTTYPE=audio/basic:http://www.example.
 //   org/mysubj.au
+part of '../property.dart';
 
 class Custom {}

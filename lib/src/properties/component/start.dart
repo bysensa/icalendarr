@@ -44,5 +44,6 @@
 // The following is an example of this property
 //
 //  DTSTART:19980118T073000Z
+part of '../property.dart';
 
 class Start {}

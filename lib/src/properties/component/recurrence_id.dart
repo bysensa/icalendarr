@@ -47,5 +47,6 @@
 //
 //  RECURRENCE-ID;VALUE=DATE:19960401
 //  RECURRENCE-ID;RANGE=THISANDFUTURE:19960120T120000Z
+part of '../property.dart';
 
 class RecurrenceId {}

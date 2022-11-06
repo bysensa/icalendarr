@@ -26,5 +26,6 @@
 // The following is an example of this property
 //
 //  LAST-MODIFIED:19960817T133000Z
+part of '../property.dart';
 
 class LastModified {}

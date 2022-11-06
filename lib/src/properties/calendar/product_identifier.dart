@@ -31,4 +31,6 @@
 //
 //  PRODID:-//ABC Corporation//NONSGML My Product//EN
 
-class ProductIdentifier {}
+part of '../property.dart';
+
+class ProductId {}

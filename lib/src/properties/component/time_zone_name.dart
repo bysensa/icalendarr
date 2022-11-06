@@ -38,5 +38,6 @@
 //
 //  TZNAME:EST
 //  TZNAME;LANGUAGE=fr-CA:HNE
+part of '../property.dart';
 
 class TimeZoneName {}

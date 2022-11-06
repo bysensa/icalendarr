@@ -19,5 +19,6 @@
 //
 //  DRESSCODE:CASUAL
 //  NON-SMOKING;VALUE=BOOLEAN:TRUE
+part of '../property.dart';
 
 class Iana {}

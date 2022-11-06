@@ -47,3 +47,6 @@
 // The following is an example of this property for a "VJOURNAL" calendar component:
 //
 //  STATUS:DRAFT
+part of '../property.dart';
+
+class Status {}

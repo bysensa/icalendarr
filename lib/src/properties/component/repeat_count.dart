@@ -27,5 +27,6 @@
 //
 //  REPEAT:4
 //  DURATION:PT5M
+part of '../property.dart';
 
 class RepeatCount {}

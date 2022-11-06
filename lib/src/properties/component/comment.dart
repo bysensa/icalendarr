@@ -40,4 +40,6 @@
 //    As a matter of fact\, the venue for the meeting ought to be at
 //    their site. - - John
 
+part of '../property.dart';
+
 class Comment {}

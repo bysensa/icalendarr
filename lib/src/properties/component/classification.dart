@@ -29,4 +29,6 @@
 //
 //  CLASS:PUBLIC
 
+part of '../property.dart';
+
 class Classification {}

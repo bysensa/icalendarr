@@ -39,5 +39,6 @@
 // The following is an example of this property
 //
 //  SUMMARY:Department Party
+part of '../property.dart';
 
 class Summary {}

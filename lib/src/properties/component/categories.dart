@@ -40,4 +40,6 @@
 //  CATEGORIES:APPOINTMENT,EDUCATION
 //  CATEGORIES:MEETING
 
+part of '../property.dart';
+
 class Categories {}

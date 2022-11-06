@@ -27,5 +27,6 @@
 // The following is an example of this property to show 39% completion:
 //
 //  PERCENT-COMPLETE:39
+part of '../property.dart';
 
 class PercentComplete {}

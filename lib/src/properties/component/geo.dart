@@ -39,5 +39,6 @@
 // The following is an example of this property
 //
 //  GEO:37.386013;-122.082932
+part of '../property.dart';
 
 class Geo {}

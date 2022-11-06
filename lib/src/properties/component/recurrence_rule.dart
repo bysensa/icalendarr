@@ -328,5 +328,6 @@
 //  ==> (2007 EST) January 15,30
 //      (2007 EST) February 15
 //      (2007 EDT) March 15,30
+part of '../property.dart';
 
 class RecurrenceRule {}

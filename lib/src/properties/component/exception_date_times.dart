@@ -40,5 +40,6 @@
 // The following is an example of this property
 //
 //  EXDATE:19960402T010000Z,19960403T010000Z,19960404T010000Z
+part of '../property.dart';
 
 class ExceptionDateTimes {}

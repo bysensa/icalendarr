@@ -24,4 +24,6 @@
 //
 //  CALSCALE:GREGORIAN
 
+part of '../property.dart';
+
 class Scale {}

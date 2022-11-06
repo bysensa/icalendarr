@@ -38,5 +38,6 @@
 //  LOCATION:Conference Room - F123\, Bldg. 002
 //  LOCATION;ALTREP="http://xyzcorp.com/conf-rooms/f123.vcf":
 //   Conference Room - F123\, Bldg. 002
+part of '../property.dart';
 
 class Location {}

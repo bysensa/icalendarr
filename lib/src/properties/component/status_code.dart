@@ -84,5 +84,6 @@
 //  REQUEST-STATUS:4.1;Event conflict.  Date-time is busy.
 //  REQUEST-STATUS:3.7;Invalid calendar user;ATTENDEE:
 //   mailto:jsmith@example.com
+part of '../property.dart';
 
 class StatusCode {}

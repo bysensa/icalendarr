@@ -29,4 +29,6 @@
 //  ACTION:AUDIO
 //  ACTION:DISPLAY
 
+part of '../property.dart';
+
 class Action {}

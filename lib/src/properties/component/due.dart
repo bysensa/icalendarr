@@ -40,5 +40,6 @@
 // The following is an example of this property
 //
 //  DUE:19980430T000000Z
+part of '../property.dart';
 
 class Due {}

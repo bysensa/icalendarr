@@ -32,5 +32,6 @@
 // The following is an example of a fictitious globally unique time zone identifier:
 //
 //  TZID:/example.org/America/New_York
+part of '../property.dart';
 
 class TimeZoneIdentifier {}

@@ -52,4 +52,6 @@
 //  CONTACT;ALTREP="http://example.com/pdi/jdoe.vcf":Jim
 //    Dolittle\, ABC Industries\, +1-919-555-1234
 
+part of '../property.dart';
+
 class Contact {}

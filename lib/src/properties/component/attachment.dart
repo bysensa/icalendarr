@@ -46,4 +46,6 @@
 //  ATTACH;FMTTYPE=application/postscript:ftp://example.com/pub/
 //   reports/r-960812.ps
 
+part of '../property.dart';
+
 class Attachment {}

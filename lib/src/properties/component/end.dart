@@ -50,5 +50,6 @@
 //
 //  DTEND:19960401T150000Z
 //  DTEND;VALUE=DATE:19980704
+part of '../property.dart';
 
 class End {}

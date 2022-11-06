@@ -62,5 +62,6 @@
 // A trigger set to an absolute DATE-TIME.
 //
 //  TRIGGER;VALUE=DATE-TIME:19980101T050000Z
+part of '../property.dart';
 
 class Trigger {}

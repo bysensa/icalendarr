@@ -43,5 +43,6 @@
 //  DESCRIPTION:Meeting to provide technical review for "Phoenix"
 //    design.\nHappy Face Conference Room. Phoenix design team
 //    MUST attend this meeting.\nRSVP to team leader.
+part of '../property.dart';
 
 class Description {}

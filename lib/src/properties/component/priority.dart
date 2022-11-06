@@ -44,5 +44,6 @@
 // The following is an example of a property with no priority. This is equivalent to not specifying the "PRIORITY" property:
 //
 //  PRIORITY:0
+part of '../property.dart';
 
 class Priority {}
